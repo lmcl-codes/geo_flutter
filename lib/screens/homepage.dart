@@ -199,7 +199,6 @@ class _HomePageState extends State<HomePage> {
   Widget geoInfo() {
     return Column(
       children: [
-        // IP ADDRESS
         Container(
           margin: const EdgeInsets.symmetric(vertical: 6),
           padding: const EdgeInsets.all(14),
@@ -237,7 +236,6 @@ class _HomePageState extends State<HomePage> {
           ),
         ),
 
-        // CITY
         Container(
           margin: const EdgeInsets.symmetric(vertical: 6),
           padding: const EdgeInsets.all(14),
@@ -275,7 +273,6 @@ class _HomePageState extends State<HomePage> {
           ),
         ),
 
-        // REGION
         Container(
           margin: const EdgeInsets.symmetric(vertical: 6),
           padding: const EdgeInsets.all(14),
@@ -313,7 +310,6 @@ class _HomePageState extends State<HomePage> {
           ),
         ),
 
-        // COUNTRY
         Container(
           margin: const EdgeInsets.symmetric(vertical: 6),
           padding: const EdgeInsets.all(14),
@@ -351,7 +347,6 @@ class _HomePageState extends State<HomePage> {
           ),
         ),
 
-        // POSTAL
         Container(
           margin: const EdgeInsets.symmetric(vertical: 6),
           padding: const EdgeInsets.all(14),
